@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom/client'
 
 import './index.css'
 // Bringing in the required imports from 'react-router-dom' to set up application routing behavior
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 
 // retrieving bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -16,7 +16,7 @@ import Portfolio from './pages/Portfolio';
 
 
 // need to make route to homepage
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <App />,
