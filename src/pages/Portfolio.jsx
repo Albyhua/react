@@ -32,11 +32,11 @@ function Portfolio() {
       image: "quiz"
     },
     {
-      name: "Jate",
+      name: "jate",
       description: "Text editor",
       link: "https://fast-tor-43200-e3df9f7fb052.herokuapp.com/",
       repo: "https://github.com/Albyhua/text-editor-pwa",
-      image: "Jate"
+      image: "jate"
     },
     {
       name: "forecaster",
