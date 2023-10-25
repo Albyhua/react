@@ -1,0 +1,7 @@
+export {default as one} from './projects/one.png'
+export { default as phillygrove} from './projects/phillygrove.png'
+export { default as companytracker} from './projects/companytracker.png'
+export { default as quiz} from './projects/quiz.png'
+export { default as Jate} from './projects/Jate.png'
+export { default as forecaster} from './projects/forecaster.png'
+// export { default as Profile} from '../assets/Profile.pdf'
